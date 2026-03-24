@@ -131,3 +131,4 @@ Update the cron expression `0 7 * * *`:
 - `0 8` = 8:00 AM
 - `30 7` = 7:30 AM
 - `0 7 * * 1-5` = Weekdays only at 7 AM
+
